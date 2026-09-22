@@ -462,4 +462,11 @@
       </dependencies>
     </profile>
   </profiles>
+<repositories>
+    <repository>
+        <id>nexus</id>
+        <url>http://172.31.35.72:8081/repository/petclinic/</url>
+    </repository>
+</repositories>
+
 </project>
